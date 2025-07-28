@@ -38,7 +38,7 @@ logger = logging.getLogger(__name__)
 
 # Firebase configuration
 firebase_config = {
-    "apiKey": "AIzaSyANRc0UBr3t9rAz6LRjuatZKlGGk7dTG4Y",
+    "apiKey": "***********************************",
     "authDomain": "dummy.firebaseapp.com",
     "databaseURL": "https://my-nas-ip-default-rtdb.asia-southeast1.firebasedatabase.app/",
     "storageBucket": "dummy"
