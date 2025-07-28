@@ -1,0 +1,100 @@
+2025-07-28 18:52:46,488 - INFO - Public IP unchanged: 113.163.48.130
+2025-07-28 18:52:46,491 - INFO - Sleeping for 60 seconds
+2025-07-28 18:53:46,554 - INFO - Entering get_public_ip function
+2025-07-28 18:53:46,953 - INFO - Exiting get_public_ip function with IP: 113.163.48.130
+2025-07-28 18:53:46,956 - INFO - Public IP unchanged: 113.163.48.130
+2025-07-28 18:53:46,959 - INFO - Sleeping for 60 seconds
+2025-07-28 18:54:46,964 - INFO - Entering get_public_ip function
+2025-07-28 18:54:47,366 - INFO - Exiting get_public_ip function with IP: 113.163.48.130
+2025-07-28 18:54:47,370 - INFO - Public IP unchanged: 113.163.48.130
+2025-07-28 18:54:47,372 - INFO - Sleeping for 60 seconds
+2025-07-28 18:55:47,380 - INFO - Entering get_public_ip function
+2025-07-28 18:55:47,717 - INFO - Exiting get_public_ip function with IP: 113.163.48.130
+2025-07-28 18:55:47,720 - INFO - Public IP unchanged: 113.163.48.130
+2025-07-28 18:55:47,723 - INFO - Sleeping for 60 seconds
+2025-07-28 18:56:47,748 - INFO - Entering get_public_ip function
+2025-07-28 18:56:48,114 - INFO - Exiting get_public_ip function with IP: 113.163.48.130
+2025-07-28 18:56:48,117 - INFO - Public IP unchanged: 113.163.48.130
+2025-07-28 18:56:48,118 - INFO - Sleeping for 60 seconds
+2025-07-28 18:57:48,180 - INFO - Entering get_public_ip function
+2025-07-28 18:57:48,548 - INFO - Exiting get_public_ip function with IP: 113.163.48.130
+2025-07-28 18:57:48,552 - INFO - Public IP unchanged: 113.163.48.130
+2025-07-28 18:57:48,591 - INFO - Sleeping for 60 seconds
+2025-07-28 18:58:48,663 - INFO - Entering get_public_ip function
+2025-07-28 18:58:49,030 - INFO - Exiting get_public_ip function with IP: 113.163.48.130
+2025-07-28 18:58:49,033 - INFO - Public IP unchanged: 113.163.48.130
+2025-07-28 18:58:49,036 - INFO - Sleeping for 60 seconds
+2025-07-28 18:59:49,098 - INFO - Entering get_public_ip function
+2025-07-28 18:59:49,800 - INFO - Exiting get_public_ip function with IP: 113.163.48.130
+2025-07-28 18:59:49,804 - INFO - Public IP unchanged: 113.163.48.130
+2025-07-28 18:59:49,806 - INFO - Sleeping for 60 seconds
+2025-07-28 19:00:49,812 - INFO - Entering get_public_ip function
+2025-07-28 19:00:50,175 - INFO - Exiting get_public_ip function with IP: 113.163.48.130
+2025-07-28 19:00:50,179 - INFO - Public IP unchanged: 113.163.48.130
+2025-07-28 19:00:50,181 - INFO - Sleeping for 60 seconds
+2025-07-28 19:01:50,195 - INFO - Refreshing Firebase token
+2025-07-28 19:01:50,197 - INFO - Entering login_firebase function
+2025-07-28 19:01:50,750 - INFO - Exiting login_firebase function
+2025-07-28 19:01:50,770 - INFO - Entering get_public_ip function
+2025-07-28 19:01:51,141 - INFO - Exiting get_public_ip function with IP: 113.163.48.130
+2025-07-28 19:01:51,145 - INFO - Public IP unchanged: 113.163.48.130
+2025-07-28 19:01:51,148 - INFO - Sleeping for 60 seconds
+2025-07-28 19:01:51,180 - INFO - Entering stream_handler with event: put
+2025-07-28 19:01:51,182 - INFO - RefreshNow is False, no action taken
+2025-07-28 19:01:51,184 - INFO - Exiting stream_handler
+2025-07-28 19:02:51,210 - INFO - Entering get_public_ip function
+2025-07-28 19:02:51,593 - INFO - Exiting get_public_ip function with IP: 113.163.48.130
+2025-07-28 19:02:51,596 - INFO - Public IP unchanged: 113.163.48.130
+2025-07-28 19:02:51,599 - INFO - Sleeping for 60 seconds
+2025-07-28 19:03:51,661 - INFO - Entering get_public_ip function
+2025-07-28 19:03:52,018 - INFO - Exiting get_public_ip function with IP: 113.163.48.130
+2025-07-28 19:03:52,021 - INFO - Public IP unchanged: 113.163.48.130
+2025-07-28 19:03:52,024 - INFO - Sleeping for 60 seconds
+2025-07-28 19:04:52,080 - INFO - Entering get_public_ip function
+2025-07-28 19:04:52,448 - INFO - Exiting get_public_ip function with IP: 113.163.48.130
+2025-07-28 19:04:52,451 - INFO - Public IP unchanged: 113.163.48.130
+2025-07-28 19:04:52,454 - INFO - Sleeping for 60 seconds
+2025-07-28 19:05:52,504 - INFO - Entering get_public_ip function
+2025-07-28 19:05:52,854 - INFO - Exiting get_public_ip function with IP: 113.163.48.130
+2025-07-28 19:05:52,857 - INFO - Public IP unchanged: 113.163.48.130
+2025-07-28 19:05:52,858 - INFO - Sleeping for 60 seconds
+2025-07-28 19:06:52,920 - INFO - Entering get_public_ip function
+2025-07-28 19:06:53,288 - INFO - Exiting get_public_ip function with IP: 113.163.48.130
+2025-07-28 19:06:53,290 - INFO - Public IP unchanged: 113.163.48.130
+2025-07-28 19:06:53,292 - INFO - Sleeping for 60 seconds
+2025-07-28 19:07:53,295 - INFO - Entering get_public_ip function
+2025-07-28 19:07:53,673 - INFO - Exiting get_public_ip function with IP: 113.163.48.130
+2025-07-28 19:07:53,675 - INFO - Public IP unchanged: 113.163.48.130
+2025-07-28 19:07:53,677 - INFO - Sleeping for 60 seconds
+2025-07-28 19:08:53,739 - INFO - Entering get_public_ip function
+2025-07-28 19:08:54,119 - INFO - Exiting get_public_ip function with IP: 113.163.48.130
+2025-07-28 19:08:54,122 - INFO - Public IP unchanged: 113.163.48.130
+2025-07-28 19:08:54,125 - INFO - Sleeping for 60 seconds
+2025-07-28 19:09:54,162 - INFO - Entering get_public_ip function
+2025-07-28 19:09:54,540 - INFO - Exiting get_public_ip function with IP: 113.163.48.130
+2025-07-28 19:09:54,545 - INFO - Public IP unchanged: 113.163.48.130
+2025-07-28 19:09:54,548 - INFO - Sleeping for 60 seconds
+2025-07-28 19:10:54,580 - INFO - Entering get_public_ip function
+2025-07-28 19:10:55,090 - INFO - Exiting get_public_ip function with IP: 113.163.48.130
+2025-07-28 19:10:55,094 - INFO - Public IP unchanged: 113.163.48.130
+2025-07-28 19:10:55,096 - INFO - Sleeping for 60 seconds
+2025-07-28 19:11:55,112 - INFO - Entering get_public_ip function
+2025-07-28 19:11:55,448 - INFO - Exiting get_public_ip function with IP: 113.163.48.130
+2025-07-28 19:11:55,450 - INFO - Public IP unchanged: 113.163.48.130
+2025-07-28 19:11:55,451 - INFO - Sleeping for 60 seconds
+2025-07-28 19:12:55,498 - INFO - Entering get_public_ip function
+2025-07-28 19:12:56,868 - INFO - Exiting get_public_ip function with IP: 113.163.48.130
+2025-07-28 19:12:56,870 - INFO - Public IP unchanged: 113.163.48.130
+2025-07-28 19:12:56,872 - INFO - Sleeping for 60 seconds
+2025-07-28 19:13:56,932 - INFO - Entering get_public_ip function
+2025-07-28 19:13:57,320 - INFO - Exiting get_public_ip function with IP: 113.163.48.130
+2025-07-28 19:13:57,324 - INFO - Public IP unchanged: 113.163.48.130
+2025-07-28 19:13:57,327 - INFO - Sleeping for 60 seconds
+2025-07-28 19:14:57,390 - INFO - Entering get_public_ip function
+2025-07-28 19:14:57,751 - INFO - Exiting get_public_ip function with IP: 113.163.48.130
+2025-07-28 19:14:57,755 - INFO - Public IP unchanged: 113.163.48.130
+2025-07-28 19:14:57,758 - INFO - Sleeping for 60 seconds
+2025-07-28 19:15:57,820 - INFO - Entering get_public_ip function
+2025-07-28 19:15:58,190 - INFO - Exiting get_public_ip function with IP: 113.163.48.130
+2025-07-28 19:15:58,193 - INFO - Public IP unchanged: 113.163.48.130
+2025-07-28 19:15:58,195 - INFO - Sleeping for 60 seconds
